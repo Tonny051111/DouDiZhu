@@ -25,7 +25,7 @@ MUTED = (151, 178, 179)
 TEAL = (106, 205, 185)
 RED = (192, 72, 74)
 NAMES = ("你", "电脑1", "电脑2")
-AUTHOR = "Tonny陳"
+AUTHOR = "Xinyu"
 
 
 def find_font():
