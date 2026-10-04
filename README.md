@@ -2,7 +2,7 @@
 
 一款使用 **Python + pygame-ce** 编写的单人桌面斗地主小游戏。你将与两位电脑玩家同桌对战，体验叫地主、抢地主、出牌与队友配合。
 
-**作者：Xinyu · 当前版本：1.1 · Python 3.10+**
+**作者：Tonny陳 · 当前版本：1.1 · Python 3.10+**
 
 ![三人经典斗地主首页](docs/screenshots/home.png)
 
@@ -156,4 +156,4 @@ Windows 默认使用微软雅黑。其他系统会尝试苹方、Noto Sans CJK �
 
 ## 作者
 
-**Xinyu**
+**Tonny陳**
